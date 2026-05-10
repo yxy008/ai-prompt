@@ -167,7 +167,7 @@ python engineering/prompt_layered.py
 
 ## 相关文档
 
-- [Prompt 工程完全指南：从原理到最佳实践](../Prompt工程完全指南：从原理到最佳实践.md)
+- [Prompt 工程完全指南：从原理到最佳实践](https://blog.csdn.net/qq_39076672/article/details/160960700?spm=1011.2415.3001.5331)
 - [OpenAI 官方 Prompt Engineering Guide](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Anthropic Prompt Library](https://docs.anthropic.com/en/prompt-library)
 - [PromptingGuide.ai](https://www.promptingguide.ai/zh)
